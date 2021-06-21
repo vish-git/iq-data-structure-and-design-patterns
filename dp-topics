@@ -1,0 +1,59 @@
+1.Creational
+  Abstract Factory
+  Factory
+  Builder
+  Singleton
+  Prototype
+2.Structural
+  Adaptor
+  Bridge
+  Composite
+  Decorator
+  Facade
+  Flyweight
+  Proxy
+ 3.Behavioural
+  ChainOfResponsibility
+  Command
+  Interpretor
+  Iterator
+  Mediator
+  Memento
+  Observor
+  State
+  Strategy
+  Template Method
+  Visitor
+ 4.Functional Programming
+  Functional functions
+  Functional Passing
+  Filter and Pipes
+  Accumulators
+  Memoization
+  Immutability
+  Lazy instantiation
+5.Model view pattern
+  MVC
+  MVP
+  MVVM
+ 6. Web Pattern 
+  sending js
+  plugind
+  the circuit braker
+  promise 
+7.Messaging pattern
+  publish-subscribe
+  dead-letter-queue
+8.testing pattern
+  testing pyramid
+  test in units
+  AAA (Arrange-Act-Assert)
+  Fake objects
+  Interacting with UI.
+9.Advance Patterns
+  DI
+  Live Post Processing
+  AOP
+  Macros
+ 
+ 
